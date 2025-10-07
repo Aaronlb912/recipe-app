@@ -1,1 +1,0 @@
-import {FaPizzaSlice, } from 'react-icons'

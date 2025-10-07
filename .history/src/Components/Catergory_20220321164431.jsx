@@ -1,1 +1,0 @@
-import {FaPis} from 'react-icons'
